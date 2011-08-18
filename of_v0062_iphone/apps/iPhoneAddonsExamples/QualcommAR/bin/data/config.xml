@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+		<ImageTarget id="4" size="247 173" name="stones" />
+		<ImageTarget id="5" size="247 173" name="chips" />
+		<Marker type="id-frame" id="0" size="50 50" name="mymarker1" />
+		<Marker type="id-frame" id="1" size="50 50" name="mymarker2" />
+		<Marker type="id-frame" id="2" size="50 50" name="mymarker3" />
+		<Marker type="id-frame" id="3" size="50 50" name="mymarker4" />
+  </Tracking>
+</QCARConfig>
